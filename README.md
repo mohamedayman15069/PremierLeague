@@ -1,7 +1,5 @@
 # PremierLeague
-
-## Backend Framework: Flask 
-## Frontend Framework: React JS 
+Using Backend Framework: **Flask** and Frontend Framework: **React JS** 
 
 - How to run the project: 
 
@@ -30,7 +28,6 @@ then, in frontend directory,
 1) npm install
 2) npm run 
 
-I guess it should work!
 
 - Remote Server I am using is https://www.freemysqlhosting.net/
 
