@@ -1,8 +1,7 @@
 # PremierLeague
-Database Project:
 
-Backend Framework: Flask 
-Frontend Framework: React JS 
+## Backend Framework: Flask 
+## Frontend Framework: React JS 
 
 - How to run the project: 
 
