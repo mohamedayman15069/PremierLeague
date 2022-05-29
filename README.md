@@ -50,10 +50,3 @@ then, in frontend directory,
 		- The fourth query: Getting teams in a City. 
 		- The fifth query: To get the reviews of a given match. 
 		
-		
-Bonus:  ALL of them 
--  Bonus Query
--  Insert in Remote Server
--  Frontend
-	
-
